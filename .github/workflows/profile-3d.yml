@@ -12,11 +12,7 @@ jobs:
     steps:
       
       - uses: actions/checkout@v2
-        with:
-          node-version: '16'
       - uses: yoshi389111/github-profile-3d-contrib@0.2.0
-        with:
-          node-version: '16'
         env:
           GITHUB_TOKEN: ${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}
           USERNAME: ${ZhiiwChen}

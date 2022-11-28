@@ -7,5 +7,7 @@
 </div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=ZhiiwChen&theme=xcode" /> </div>
-
+---
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=ZhiiwChen" /> </div>
+---
+

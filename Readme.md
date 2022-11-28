@@ -3,7 +3,5 @@
  
 </div>
 
-<div align='center'>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiiwChen&layout=compact&theme=dracula" width="350"></a>
-</div>
+<div align="center"> <img src="https://metrics.lecoq.io/ZhiiwChen?template=classic&config.timezone=Asia%2FShanghai"> </div>
  
